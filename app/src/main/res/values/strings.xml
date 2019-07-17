@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">ALC4Challenge</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC 4</string>
+    <string name="andela">Andela</string>
+    <string name="profile_name">Kareem Mohamed</string>
+    <string name="email">kkashwaa\@gmail.com</string>
+    <string name="slack">\@KK</string>
+    <string name="track_title">Track:</string>
+    <string name="track">Android</string>
+    <string name="country_title">Country:</string>
+    <string name="country">Egypt</string>
+    <string name="email_title">Email:</string>
+    <string name="slack_title">Slack Username:</string>
+    <string name="about_name">About ALC</string>
+    <string name="main_name">ALC 4 Challenge</string>
 </resources>
